@@ -2,7 +2,7 @@
 # 使い方: irm https://cli.igness.ai/install.ps1 | iex
 $ErrorActionPreference = 'Stop'
 
-$repo = 'igness-ai/blaze-cli-dist'
+$repo = 'igness-ai/blaze-cli'
 $installDir = Join-Path $env:USERPROFILE '.blaze\bin'
 $binaryName = 'blaze.exe'
 

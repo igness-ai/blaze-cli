@@ -1,7 +1,7 @@
 # Blaze CLI
 
 Salesforce AI DevOps Agent の CLI 配信チャネル。バイナリと install スクリプトを配布します。
-ソースは [igness-ai/blaze-cli](https://github.com/igness-ai/blaze-cli) (Private)。
+ソースは [igness-ai/blaze-cli-internal](https://github.com/igness-ai/blaze-cli-internal) (Private)。
 
 ## インストール
 

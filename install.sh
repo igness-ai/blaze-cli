@@ -3,7 +3,7 @@
 # 使い方: curl -fsSL https://cli.igness.ai/install.sh | bash
 set -euo pipefail
 
-REPO="igness-ai/blaze-cli-dist"
+REPO="igness-ai/blaze-cli"
 CHANNEL="prod"
 INSTALL_DIR="${HOME}/.blaze/bin"
 BINARY_NAME="blaze"
